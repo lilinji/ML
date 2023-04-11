@@ -25,7 +25,7 @@ description: Spark闪闪团队出品：ChatGPT 从 0 到 1 系统性学习资料
 
 ### 相关链接
 
-直接阅读 Notion：https://hankyzc.notion.site/ChatGPT-0-1-cbb8bd97914a49c896501fb3aae5de51 阅读基于 Vercel 建成的网站：https://https://ml.genetind.com/
+直接阅读 Notion：https://hankyzc.notion.site/ChatGPT-0-1-cbb8bd97914a49c896501fb3aae5de51 阅读基于 Vercel 建成的网站：https://ml.genetind.com/
 
 ### 文档介绍
 
@@ -68,3 +68,4 @@ description: Spark闪闪团队出品：ChatGPT 从 0 到 1 系统性学习资料
 #### 6. 其他
 
 #### 7.关于作者
+

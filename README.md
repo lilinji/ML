@@ -4,7 +4,7 @@
 
 虽然叫做「ChatGPT」教程，但我们的内容同样适用于「文心一言」等基于 GPT 的 AI 产品。
 
-文档链接：[点击开始阅读文档](https://gptdoc.sparkai.chat/)
+文档链接：[点击开始阅读文档](https://ml.genetind.com/)
 
 ![](./docs/assets/gptdoc-mainpage.png)
 
@@ -12,7 +12,7 @@
 
 我们的目标是做成至少在中文互联网里质量最高、最详细的 ChatGPT 文档，但由于我们团队的几位作者终究是时间有限，我们希望更多的有志之士能够加入我们和我们一起做这个文档。如果你对 ChatGPT 这件事情很感兴趣并且每周能固定拿出 3 小时以上投入到文档里，我们诚挚邀请你加入我们。
 
-![](./docs/assets/sparkshanshan-wechat-qrcode.png)
+![](./docs/assets/sparkshanshan-wechat-qrcode.png) 
 
 ## 文档介绍
 
@@ -42,5 +42,4 @@
 
 [![](https://opencollective.com/gpt-tutorial-101/contributors.svg?width=890&button=false)](https://github.com/SparkGPT001/gpt-tutorial-101/graphs/contributors)
 
-
-[点击开始阅读文档](https://gptdoc.sparkai.chat/)
+[点击开始阅读文档](https://ml.genetind.com/)

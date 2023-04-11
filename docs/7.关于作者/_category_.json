@@ -1,8 +1,8 @@
 {
-    "label": "6. 其他",
-    "position": 7,
+    "label": "7. 关于作者",
+    "position": 8,
     "link": {
         "type": "generated-index",
-        "description": "其他"
+        "description": "关于作者"
     }
 }
